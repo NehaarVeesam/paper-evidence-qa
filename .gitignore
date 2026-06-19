@@ -1,0 +1,10 @@
+# Secrets and local data
+.env
+data/
+.chroma/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
