@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+
+# Documents and derived content stay local.
+/docs/
+/data/
+*.pdf
+*.log
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
